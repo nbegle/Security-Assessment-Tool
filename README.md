@@ -100,11 +100,6 @@ Open `output.html` in your browser to review the scan output.
 
 ---
 
-## License
-
-This project is released under the MIT License. See `LICENSE` for more details.
-
----
 
 ## Disclaimer
 
